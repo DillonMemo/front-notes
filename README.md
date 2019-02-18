@@ -27,5 +27,5 @@
     </aside>
 </footer>
 ```
-1. [Demo](https://dillonmemo.github.io/front-notes/index.html)
+3. [Demo](https://dillonmemo.github.io/front-notes/index.html)
 

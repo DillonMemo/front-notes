@@ -5,6 +5,5 @@ server.js
 
 # Dev or build files
 .sass-cache/*
-main.css
 *.css.map
 *.scssc
