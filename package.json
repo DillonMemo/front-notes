@@ -20,5 +20,8 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "mixitup": "^3.3.1"
   }
 }

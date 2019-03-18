@@ -77,7 +77,7 @@ window.addEventListener('load', function () {
      */
     (function(container, button){
 
-        var breakPoint = 400; // the button will appear passed this point
+        var breakPoint = 200; // the button will appear passed this point
         var isVisible = false;
 
         // add event to "to top" button
